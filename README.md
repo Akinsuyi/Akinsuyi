@@ -3,7 +3,7 @@ I am a systems engineer and aspiring researcher with experience in developing AI
 
 - 🔭 I’m currently working on [Parkison Disease Detection and classification using CNN]
 - 🌱 I’m learning more about [Natural Languague Processing, Reliabilty and Quality Engineering, Manufacturing and Production Systems, Redundancy in Robotic Systems,Energy Systems and Industrial Technology, and Deep Learning Frameworks]
-- 📫 How to reach me: [akinsuyisamson10@gmail.com] | [LinkedIn](https://www.linkedin.com/in/akinsuyi-samson-6647441a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+- 📫 How to reach me: [akinsuyisamson10@gmail.com] | [LinkedIn](https://www.linkedin.com/in/akinsuyi-samson-6647441a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) Github: https://github.com/Akinsuyi
 
 ## My Skills
 **Programming Languages**: Python, R, MATLAB

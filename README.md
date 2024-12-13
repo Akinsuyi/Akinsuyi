@@ -34,7 +34,7 @@ Deep Cycle Prediction: Enhancing Cybersecurity while Safeguarding Data Privacy a
 "https://doi.org/10.55248/gengpi.5.0824.2403".
 
 ## Manuscript Under Review
-- Akinsuyi Samson, and Olayiwola P. David. Automated Detection of Diabetic Retinopathy Using Image 
+- Akinsuyi Samson, and Olayiwola S. Patrick. Automated Detection of Diabetic Retinopathy Using Image 
 Processing with CNN and ResNet-50 Architectures. MDPI Diagnostics, Submission ID; diagnostics-3339823.
 ## Manuscript in Preparation
 - Akinsuyi Samson. Multitask Learning in Cancer Diagnosis. Harnessing Synergies for enhanced precision

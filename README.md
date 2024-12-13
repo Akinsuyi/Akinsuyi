@@ -32,3 +32,9 @@ Advanced Research and review "https://doi.org/10.30574/wjarr.2024.23.3.2645".
 - Chukwunweike, J. N., Ayodele, P. A., Obasuyi, O., Oluwamayowa, A., & Samson, Akinsuyi (2024). AI and 
 Deep Cycle Prediction: Enhancing Cybersecurity while Safeguarding Data Privacy and Information Integrity. 
 "https://doi.org/10.55248/gengpi.5.0824.2403".
+
+## Manuscript Under Review
+- Akinsuyi Samson, and Olayiwola P. David. Automated Detection of Diabetic Retinopathy Using Image 
+Processing with CNN and ResNet-50 Architectures. MDPI Diagnostics, Submission ID; diagnostics-3339823.
+## Manuscript in Preparation
+- Akinsuyi Samson. Multitask Learning in Cancer Diagnosis. Harnessing Synergies for enhanced precision

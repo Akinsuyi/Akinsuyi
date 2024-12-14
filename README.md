@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akinsuyi Samson Ayomide
-I am a systems engineer and aspiring researcher with experience in developing AI-driven solutions for societal and industrial challenges. My work includes leveraging YOLO algorithms for workplace safety, advancing diabetes retinopathy detection using image processing, and designing autonomous agricultural drone navigation systems to enhance resource efficiency.
+I am a systems engineer and aspiring researcher with experience in developing AI-driven solutions for societal and industrial challenges. Some Projects I have worked on includes leveraging YOLO algorithms for workplace safety, advancing diabetes retinopathy detection using image processing, and designing autonomous agricultural drone navigation systems to enhance resource efficiency.
 
 - 🔭 I’m currently working on [Parkison Disease Detection and classification using CNN]
 - 🌱 I’m learning more about [Natural Languague Processing, Reliabilty and Quality Engineering, Manufacturing and Production Systems, Redundancy in Robotic Systems,Energy Systems and Industrial Technology, and Deep Learning Frameworks]

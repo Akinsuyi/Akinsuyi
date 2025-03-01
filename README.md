@@ -1,23 +1,28 @@
 # 👋 Hi, I'm Akinsuyi Samson Ayomide
-I am a systems engineer and aspiring researcher with experience in developing AI-driven solutions for societal and industrial challenges. Some Projects I have worked on includes leveraging YOLO algorithms for workplace safety, advancing diabetes retinopathy detection using image processing, and designing autonomous agricultural drone navigation systems to enhance resource efficiency.
+I am a Systems Engineer and aspiring researcher with experience in developing AI-driven solutions for societal and industrial challenges. Some Projects I have worked on includes leveraging YOLO algorithms for workplace safety, advancing diabetes retinopathy detection using image processing, and designing autonomous agricultural drone navigation systems to enhance resource efficiency.
 
 - 🔭 I’m currently working on [Parkison Disease Detection and classification using CNN]
 - 🌱 I’m learning more about [Natural Languague Processing, Reliabilty and Quality Engineering, Manufacturing and Production Systems, Redundancy in Robotic Systems,Energy Systems and Industrial Technology, and Deep Learning Frameworks]
 - 📫 How to reach me: [akinsuyisamson10@gmail.com] | [LinkedIn](https://www.linkedin.com/in/akinsuyi-samson-6647441a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) Github: https://github.com/Akinsuyi
 
 ## My Skills
-**Programming Languages**: Python, R, MATLAB
-- Machine Learning and Neural Networks: Supervised & Unsupervised Learning, Neural Networks 
-(including CNNs), Feature Engineering, Model Evaluation, Computer vision, and generative AI.
-- Database and ETL Tools: MongoDB, MySQL, Apache Spark, PySpark, SPSS
-- Data Visualization and Project Management: Matplotlib, ggplot2, Tableau, Power BI, Microsoft Office
-- Digital Twin Technology: Experienced in creating virtual representations of physical systems for predictive 
-modeling and optimization
-- Statistical Analysis: Hypothesis Testing, ANOVA, Correlation, Regression, Time Series Analysis, A/B 
-Testing
-- Operating Systems and Scripting: Linux (Ubuntu, CentOS), Bash Scripting
-- Soft skills: Organisation and Prioritization, Team player, Excellent Verbal and Communication
-
+•	Programming Languages: Python, R, MATLAB, C++, Java,  
+•	Machine Learning and Neural Networks: Scikit-learn, TensorFlow, PyTorch, Transformers, BERT, NLP, CNNs, LSTMs 
+•	Database and ETL Tools: MongoDB, MySQL, Apache Spark, PySpark, SPSS 
+•	Video & Image Analysis: OpenCV, MediaPipe, YOLO Object Detection 
+•	Social Network & Graph Analysis: NetworkX, Gephi, Graph Neural Networks (GNNs), PageRank Algorithm 
+•	Data Collection & Web Scraping: BeautifulSoup, Scrapy, Selenium 
+•	Data Visualization and Project Management: Matplotlib, ggplot2, Tableau, Power BI, Microsoft Office 
+•	Digital Twin Technology: Experienced in creating virtual representations of physical systems for predictive modeling and optimization 
+•	Design & Creative Software: Extensive knowledge of Adobe CC Suite (Adobe XD, Illustrator, Photoshop, InDesign, Lightroom) & Figma. 
+•	Statistical Analysis: Hypothesis Testing, ANOVA, Correlation, Regression, Time Series Analysis, A/B Testing 
+•	Web Development and Design: Extensive knowledge of HTML/CSS, JavaScript, ReactJS, and dynamic behaviors in web pages. 
+•	Operating Systems and Scripting: Linux (Ubuntu, CentOS), Bash Scripting 
+•	Microsoft Suites: Microsoft word, Power point, Excel.  
+•	Soft skills: Organization and Prioritization, Team player, Excellent Verbal and Communication, Public Speaking. 
+•	Interests: Volunteering, Adventures, Soccer, Travelling 
+•	Organization: Nigeria Society of Engineers, Council for the Regulation of Engineering in Nigeria 
+ 
 ## Publications
 - Akinsuyi Samson Ayomide and Ebubechukwu Ozurumba. (2024). Artificial Intelligence In Advanced 
 Process Optimization And Smart Manufacturing Systems. International Journal of Engineering Technology 
